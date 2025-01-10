@@ -4,7 +4,7 @@ Welcome to **ScholarSoup**, a Flask based application designed to present schola
 
 ## Motivation 🎯
 
-This project was developed to simplify the search process for scholarships, making it more efficient and user-friendly. The idea stemmed from a personal need to streamline the often overwhelming task of finding relevant scholarships. Additionally, this project provided an opportunity to enhance my skills in web scraping, data handling, and Flask web development.
+I built this with the goal to simplify the search process for scholarships, making it more user-friendly. The idea stemmed from my own need to ease the task of finding relevant scholarships. Additionally, this project provids users an opportunity to enhance my skills in web scraping, data handling and Flask web development!
 
 ## Features ✨
 
