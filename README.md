@@ -1,4 +1,4 @@
-# ScholarSoup
+# ScholarSoup 🍲
 
 Welcome to **ScholarSoup**, a Flask based application designed to present scholarship opportunities from various sources. I built this tool with the aim to make scholarship information more accessible and easier to manage for students everywhere.
 
