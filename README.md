@@ -8,10 +8,9 @@ I built this with the goal to simplify the search process for scholarships, maki
 
 ## Features ✨
 
-- **Dynamic Data Aggregation:** Automatically scrapes and consolidates scholarship information from multiple websites in real-time.
-- **User-Friendly Interface:** Provides an easy-to-navigate interface for users to explore various scholarships.
+- **User-Friendly Interface:** Provides an easy interface for navigation to have users explore various scholarships.
 - **Regular Updates:** The scraper runs at scheduled intervals to ensure that the most current and relevant scholarship information is available.
-- **Reliability:** Designed with efficient error handling and uptime strategies to maintain high availability and performance.
+- **Reliability:** I designed ScholarSoup with efficient error handling to maintain good quality performance.
 
 ## Tech Stack 🛠
 
