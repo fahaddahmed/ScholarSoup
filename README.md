@@ -1,6 +1,6 @@
-# 🏆 Scholarship Web Scraper
+# ScholarSoup
 
-Welcome to the **Scholarship Web Scraper**, a Flask-based application designed to dynamically aggregate and present scholarship opportunities from various sources. This tool aims to make scholarship information more accessible and easier to manage for students everywhere.
+Welcome to **ScholarSoup**, a Flask based application designed to present scholarship opportunities from various sources. I built this tool with the aim to make scholarship information more accessible and easier to manage for students everywhere.
 
 ## 🎯 Motivation
 
